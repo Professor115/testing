@@ -33,6 +33,7 @@
         req.send();
         }
         setInterval(function(){aj()},1000)
+        
     </script>
 </head>
 
