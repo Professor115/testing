@@ -275,6 +275,9 @@
 </style>
 
 <body onload="aj()">
+
+
+    
     <center>
 
     <div id="rights">asgard chat</div>
@@ -316,7 +319,7 @@
         </div>
 
     </center>
-
+    <h1>hshshshsshshshhsshhsshshhs</h1>
 
 
         <script>
