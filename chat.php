@@ -319,8 +319,6 @@
         </div>
 
     </center>
-    <h1>hshshshsshshshhsshhsshshhs</h1>
-
 
         <script>
             function readURL(input){
